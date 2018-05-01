@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{mackey1977oscillation}
+M.~C. Mackey, L.~Glass, {\em et~al.}, ``Oscillation and chaos in physiological
+  control systems,'' {\em Science}, vol.~197, no.~4300, pp.~287--289, 1977.
+
+\bibitem{MackeyGlass}
+M.~Cococcioni, ``Mackey-glass time series generator.''
+  \url{https://uk.mathworks.com/matlabcentral/fileexchange/24390-mackey-glass-time-series-generator/}.
+\newblock Accessed Dec 4, 2017.
+
+\bibitem{investing.com}
+F.~Group, ``Financial times stock exchange 100 index.''
+  \url{https://www.investing.com/indices/uk-100-historical-data/}.
+\newblock Accessed Dec 4, 2017.
+
+\bibitem{ioffe2015batch}
+S.~Ioffe and C.~Szegedy, ``Batch normalization: Accelerating deep network
+  training by reducing internal covariate shift,'' in {\em International
+  Conference on Machine Learning}, pp.~448--456, 2015.
+
+\bibitem{feng2009error}
+G.~Feng, G.-B. Huang, Q.~Lin, and R.~Gay, ``Error minimized extreme learning
+  machine with growth of hidden nodes and incremental learning,'' {\em IEEE
+  Transactions on Neural Networks}, vol.~20, no.~8, pp.~1352--1357, 2009.
+
+\end{thebibliography}

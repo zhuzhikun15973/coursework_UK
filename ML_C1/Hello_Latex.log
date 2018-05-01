@@ -1,0 +1,1970 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.12)  11 DEC 2017 09:55
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**Hello_Latex.tex
+(./Hello_Latex.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen103
+\extrarowheight=\dimen104
+\NC@list=\toks14
+\extratabsurround=\skip43
+\backup@length=\skip44
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\everycr=\toks15
+\minrowclearance=\skip45
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen105
+\Gin@req@width=\dimen106
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen107
+\Gm@wd@mp=\dimen108
+\Gm@odd@mp=\dimen109
+\Gm@even@mp=\dimen110
+\Gm@layoutwidth=\dimen111
+\Gm@layoutheight=\dimen112
+\Gm@layouthoffset=\dimen113
+\Gm@layoutvoffset=\dimen114
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks18
+\float@box=\box26
+\@float@everytoks=\toks19
+\@floatcapt=\box27
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count92
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks20
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen115
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen116
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks22
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks23
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks24
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/breakurl/breakurl.sty
+Package: breakurl 2013/04/10 v1.40 Breakable hyperref URLs
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2017/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks26
+\XKV@tempa@toks=\toks27
+)
+\XKV@depth=\count105
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+
+Package breakurl Warning: You are using breakurl while processing via pdflatex.
+
+(breakurl)                \burl will be just a synonym of \url.
+(breakurl)                 on input line 48.
+
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(./slashbox.sty
+slashbox style by K.Yasuoka, May 1993.
+\@slashboxa=\box30
+\@slashboxb=\box31
+\@slashboxc=\box32
+\@slashboxwd=\count106
+\@slashboxht=\count107
+\@slashsepl=\dimen124
+\@slashsepr=\dimen125
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/sttools/flushend.sty
+Package: flushend 2017/03/27 v3.3 Balancing columns in twocolumn mode
+\flushend@@lastskip@a=\skip49
+\flushend@@lastskip@b=\skip50
+\flushend@@lastskip@c=\skip51
+\flushend@@penalty@a=\count108
+\flushend@@lastkern@a=\dimen126
+\var@@temp@spread=\dimen127
+\var@@temp@a=\dimen128
+\flushend@@page@rule=\dimen129
+\flushend@@varbox@a=\box33
+\flushend@@varbox@c=\box34
+\flushend@@tempbox@a=\box35
+\flushend@@tempbox@c=\box36
+\@viper=\box37
+\hold@viper=\box38
+\atColsBreak=\toks28
+\atColsEnd=\toks29
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count109
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/sttools/cuted.sty
+Package: cuted 2012/10/04 v1.5 Mixing onecolumn and twocolumn modes
+\At@ViperColsBreak=\toks30
+\v@aaa=\box39
+\v@ccc=\box40
+\lastskip@a=\skip52
+\lastskip@b=\skip53
+\lastskip@d=\skip54
+\lastbox@a=\box41
+\stripsep=\skip55
+\viper@penalty=\count110
+\ht@viper=\dimen130
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/makecell/makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen131
+\c@nlinenum=\count111
+\TeXr@lab=\toks31
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count112
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box42
+\rot@mess@toks=\toks32
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip58
+\multirow@cntb=\count113
+\multirow@dima=\skip59
+\bigstrutjot=\dimen132
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/diagbox/diagbox.sty
+Package: diagbox 2016/12/28 v2.2 Making table heads with diagonal lines
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pict2e/pict2e.sty
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pict2e/pict2e.cfg
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks33
+\@arclen=\dimen133
+\@arcrad=\dimen134
+\@tempdimd=\dimen135
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp.sty
+Package: fp 1995/04/02
+
+`Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/defpattern.sty
+Package: defpattern 1994/10/12
+\actioncount=\count114
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-basic.sty
+Package: fp-basic 1996/05/13
+\FP@xs=\count115
+\FP@xia=\count116
+\FP@xib=\count117
+\FP@xfa=\count118
+\FP@xfb=\count119
+\FP@rega=\count120
+\FP@regb=\count121
+\FP@regs=\count122
+\FP@times=\count123
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-addons.sty
+Package: fp-addons 1995/03/15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-snap.sty
+Package: fp-snap 1995/04/05
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-exp.sty
+Package: fp-exp 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-trigo.sty
+Package: fp-trigo 1995/04/14
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-pas.sty
+Package: fp-pas 1994/08/29
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-random.sty
+Package: fp-random 1995/02/23
+\FPseed=\count124
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eqn.sty
+Package: fp-eqn 1995/04/03
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-upn.sty
+Package: fp-upn 1996/10/21
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/fp/fp-eval.sty
+Package: fp-eval 1995/04/03
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count125
+\calc@Bcount=\count126
+\calc@Adimen=\dimen136
+\calc@Bdimen=\dimen137
+\calc@Askip=\skip60
+\calc@Bskip=\skip61
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count127
+\calc@Cskip=\skip62
+)
+\diagbox@boxa=\box43
+\diagbox@boxb=\box44
+\diagbox@boxm=\box45
+\diagbox@wd=\dimen138
+\diagbox@ht=\dimen139
+\diagbox@insepl=\dimen140
+\diagbox@insepr=\dimen141
+\diagbox@outsepl=\dimen142
+\diagbox@outsepr=\dimen143
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count128
+\lst@gtempboxa=\box46
+\lst@token=\toks34
+\lst@length=\count129
+\lst@currlwidth=\dimen144
+\lst@column=\count130
+\lst@pos=\count131
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count132
+\lst@lineno=\count133
+\lst@maxwidth=\dimen147
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count134
+\lst@skipnumbers=\count135
+\lst@framebox=\box47
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(./mcode.sty
+-- Package: `mcode' 2.7 <2015/11/11> --
+Package: mcode 2015/11/11 2.7
+ - settings optimized for display (colour formating)
+ - line numbering enabled
+ - literate programming (character replacements) enabled
+ - automatic line breaking enabled (careful, buggy!)
+ - framed listings
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/04/05 v2.0i Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+\lbreakdots=\box48
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 230.
+
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+))
+
+LaTeX Warning: Unused global option(s):
+    [journal].
+
+(./Hello_Latex.aux)
+\openout1 = `Hello_Latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
+LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 33.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 33.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 33.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen148
+\scratchbox=\box49
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen149
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks36
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 42.67912pt
+* modes: heightrounded 
+* h-part:(L,W,R)=(42.67912pt, 469.4705pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 759.6886pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.4705pt
+* \textheight=766.0pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=-29.59087pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count142
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 1215) in paragraph at lines 39--40
+\OT1/cmr/m/sl/12 Pre-dic-tion\OT1/cmr/m/n/12 . Firstly, we will dis-cuss the
+ []
+
+
+Underfull \hbox (badness 2970) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 ci-sion bound-ary for both Bayesian and
+ []
+
+
+Underfull \hbox (badness 190) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 plot-ted and their per-for-mance will be dis-
+ []
+
+
+Underfull \hbox (badness 546) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 cussed. Then, we will use a fe-ef-for-ward
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 39--40
+\OT1/cmr/m/n/12 net-work and lin-ear re-gres-sion method to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+
+Underfull \hbox (badness 189) in paragraph at lines 42--43
+\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/1
+2 that fol-low mul-ti-vari-ate Gaus-
+ []
+
+
+Underfull \hbox (badness 552) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 sian dis-tri-bu-tions with dis-tinct mean and
+ []
+
+
+Loose \hbox (badness 43) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 co-vari-ance. These two classes will clas-sifed
+ []
+
+
+Underfull \hbox (badness 808) in paragraph at lines 42--43
+\OT1/cmr/m/n/12 ral Net-work (FNN) re-sec-tively, and both
+ []
+
+
+Loose \hbox (badness 95) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 According to Bayesian the-o-rem, the pos-te-
+ []
+
+
+Loose \hbox (badness 60) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 The de-nom-i-na-tor is a con-stant ($\OML/cmm/m/it/12 P\OT1/cmr
+/m/n/12 [\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ]$). In
+ []
+
+
+Loose \hbox (badness 32) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 or-der to max-i-mize pos-te-rior prob-a-bil-ity, we
+ []
+
+
+Underfull \hbox (badness 357) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 need as-sign $\OML/cmm/m/it/12 x$ \OT1/cmr/m/n/12 to the class 
+which has the
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 high-est prob-a-bil-ity to gen-er-ate $\OML/cmm/m/it/12 x$\OT1/
+cmr/m/n/12 , which
+ []
+
+
+Underfull \hbox (badness 203) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 for a 2-class pat-tern clas-si-fi-ca-tion prob-lem
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 48--51
+\OT1/cmr/m/n/12 we as-sign $\OML/cmm/m/it/12 X$ \OT1/cmr/m/n/12 to $\OML/cmm/m/
+it/12 w[]$ \OT1/cmr/m/n/12 if $\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 [\OML/cmm/m/it
+/12 w[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ] \OML/cmm/m/it/12 >
+ \OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$. Then
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 53--55
+\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 to gen-er-ate the train-ing sets, which
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 53--55
+\OT1/cmr/m/n/12 means $\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 w[]\
+OT1/cmr/m/n/12 ] = \OML/cmm/m/it/12 p\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 w[]\OT1/
+cmr/m/n/12 ] = 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$. Then,
+ []
+
+
+Overfull \hbox (17.85889pt too wide) detected at line 61
+[]
+ []
+
+
+Underfull \hbox (badness 457) in paragraph at lines 61--63
+\OT1/cmr/m/n/12 vari-ance ma-trixes $\OML/cmm/m/it/12 C[]$ \OT1/cmr/m/n/12 and 
+$\OML/cmm/m/it/12 C[]$ \OT1/cmr/m/n/12 are pos-i-tive
+ []
+
+
+Underfull \hbox (badness 718) in paragraph at lines 61--63
+\OT1/cmr/m/n/12 semidef-i-nite and sym-met-ric, which means
+ []
+
+
+Underfull \hbox (badness 695) in paragraph at lines 61--63
+\OT1/cmr/m/n/12 cess are al-ready done in LAB 3, then I
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 61--63
+\OT1/cmr/m/n/12 sam-ply write the an-swer of the re-duced
+ []
+
+
+Tight \hbox (badness 31) detected at line 65
+\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 C[] \OMS/cmsy/m/n/12 ^^@ 
+\OML/cmm/m/it/12 C[]\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 x \OT1/cmr/m/n/12 + 2\OML
+/cmm/m/it/12 w[]x \OT1/cmr/m/n/12 + \OML/cmm/m/it/12 b \OT1/cmr/m/n/12 = \OML/c
+mm/m/it/12 log[]\OT1/cmr/m/n/12 ([])
+ []
+
+
+Underfull \hbox (badness 323) in paragraph at lines 65--67
+\OT1/cmr/m/n/12 Where $\OML/cmm/m/it/12 b \OT1/cmr/m/n/12 = (\OML/cmm/m/it/12 m
+[]C[]m[] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 m[]C[]m[]\OT1/cmr/m/n/12 )$ and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--67
+
+ []
+
+Package epstopdf Info: Source file: <PP.eps>
+(epstopdf)                    date: 2017-12-05 15:58:30
+(epstopdf)                    size: 1296168 bytes
+(epstopdf)             Output file: <PP-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-05 16:00:13
+(epstopdf)                    size: 182079 bytes
+(epstopdf)             Command: <repstopdf --outfile=PP-eps-converted-to.pdf PP
+.eps>
+(epstopdf)             \includegraphics on input line 70.
+Package epstopdf Info: Output file is already uptodate.
+<PP-eps-converted-to.pdf, id=1, 562.1pt x 421.575pt>
+File: PP-eps-converted-to.pdf Graphic file (type pdf)
+
+<use PP-eps-converted-to.pdf>
+Package pdftex.def Info: PP-eps-converted-to.pdf used on input line 70.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 70--71
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <BayesianB.eps>
+(epstopdf)                    date: 2017-12-05 21:29:36
+(epstopdf)                    size: 62703 bytes
+(epstopdf)             Output file: <BayesianB-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-05 21:29:40
+(epstopdf)                    size: 21326 bytes
+(epstopdf)             Command: <repstopdf --outfile=BayesianB-eps-converted-to
+.pdf BayesianB.eps>
+(epstopdf)             \includegraphics on input line 78.
+Package epstopdf Info: Output file is already uptodate.
+<BayesianB-eps-converted-to.pdf, id=2, 562.1pt x 421.575pt>
+File: BayesianB-eps-converted-to.pdf Graphic file (type pdf)
+
+<use BayesianB-eps-converted-to.pdf>
+Package pdftex.def Info: BayesianB-eps-converted-to.pdf used on input line 78.
+(pdftex.def)             Requested size: 187.78532pt x 140.8377pt.
+
+Underfull \hbox (badness 1448) in paragraph at lines 74--82
+[]\OT1/cmr/m/n/12 Figure.1 shows pos-te-rior prob-a-bil-i-ties for
+ []
+
+
+Underfull \hbox (badness 261) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 both $\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 w[]\O
+MS/cmsy/m/n/12 j\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ]$ and $\OML/cmm/m/it/12 P\OT
+1/cmr/m/n/12 [\OML/cmm/m/it/12 w[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X\OT1/cmr/
+m/n/12 ]$. Be-sides, the
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 sam-ples drawn from $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 (red
+) and $\OML/cmm/m/it/12 X[]$
+ []
+
+
+Underfull \hbox (badness 323) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 (green) are also plot-ted in the 3D graph,
+ []
+
+
+Underfull \hbox (badness 406) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 their z-axis' value are set to 0.5, putting
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 them to the de-ci-sion plane where
+ []
+
+
+Loose \hbox (badness 30) in paragraph at lines 74--82
+[]\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 w[]\OMS/cmsy/m/n/12 j\OML
+/cmm/m/it/12 X\OT1/cmr/m/n/12 ] =  []\OML/cmm/m/it/12 P\OT1/cmr/m/n/12 [\OML/cm
+m/m/it/12 w[]\OMS/cmsy/m/n/12 j\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ] = 0\OML/cmm/
+m/it/12 :\OT1/cmr/m/n/12 5$. The Bayesian
+ []
+
+
+Underfull \hbox (badness 196) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 Figure.2 shows 200 sam-ples equally drawn
+ []
+
+
+Underfull \hbox (badness 512) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 from $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/it/
+12 X[]$\OT1/cmr/m/n/12 . The bayesian op-ti-mal
+ []
+
+
+Underfull \hbox (badness 203) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 bound-ary sort the point to the class with
+ []
+
+
+Loose \hbox (badness 82) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 high-est pos-te-rior prob-a-bil-ity. Nev-er-the-less,
+ []
+
+
+Underfull \hbox (badness 776) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 data is more likely be gen-er-ated by $\OML/cmm/m/it/12 X[]$\OT
+1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 460) in paragraph at lines 74--82
+\OT1/cmr/m/n/12 whereas, the small prob-a-bil-ity event hap-
+ []
+
+[1{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./PP-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <FNNT.eps>
+(epstopdf)                    date: 2017-12-05 22:35:07
+(epstopdf)                    size: 48136 bytes
+(epstopdf)             Output file: <FNNT-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-05 22:35:11
+(epstopdf)                    size: 18145 bytes
+(epstopdf)             Command: <repstopdf --outfile=FNNT-eps-converted-to.pdf 
+FNNT.eps>
+(epstopdf)             \includegraphics on input line 100.
+Package epstopdf Info: Output file is already uptodate.
+
+<FNNT-eps-converted-to.pdf, id=25, 533.995pt x 451.6875pt>
+File: FNNT-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FNNT-eps-converted-to.pdf>
+Package pdftex.def Info: FNNT-eps-converted-to.pdf used on input line 100.
+(pdftex.def)             Requested size: 234.73524pt x 198.55702pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 100--101
+ [][] 
+ []
+
+
+Underfull \hbox (badness 277) in paragraph at lines 102--102
+[]\OT1/cmr/m/sl/12 Figure 3: Clas-si-fi-ca-tion re-sults of for-ward
+ []
+
+Package epstopdf Info: Source file: <CBFNN.eps>
+(epstopdf)                    date: 2017-12-05 21:28:16
+(epstopdf)                    size: 165548 bytes
+(epstopdf)             Output file: <CBFNN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-05 21:29:41
+(epstopdf)                    size: 110204 bytes
+(epstopdf)             Command: <repstopdf --outfile=CBFNN-eps-converted-to.pdf
+ CBFNN.eps>
+(epstopdf)             \includegraphics on input line 118.
+Package epstopdf Info: Output file is already uptodate.
+<CBFNN-eps-converted-to.pdf, id=26, 562.1pt x 421.575pt>
+File: CBFNN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use CBFNN-eps-converted-to.pdf>
+Package pdftex.def Info: CBFNN-eps-converted-to.pdf used on input line 118.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 118--119
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <NNBB.eps>
+(epstopdf)                    date: 2017-12-06 12:27:11
+(epstopdf)                    size: 15994 bytes
+(epstopdf)             Output file: <NNBB-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-06 12:27:23
+(epstopdf)                    size: 6826 bytes
+(epstopdf)             Command: <repstopdf --outfile=NNBB-eps-converted-to.pdf 
+NNBB.eps>
+(epstopdf)             \includegraphics on input line 126.
+Package epstopdf Info: Output file is already uptodate.
+<NNBB-eps-converted-to.pdf, id=27, 562.1pt x 421.575pt>
+File: NNBB-eps-converted-to.pdf Graphic file (type pdf)
+
+<use NNBB-eps-converted-to.pdf>
+Package pdftex.def Info: NNBB-eps-converted-to.pdf used on input line 126.
+(pdftex.def)             Requested size: 187.78532pt x 140.8377pt.
+
+Tight \hbox (badness 17) in paragraph at lines 127--127
+[]\OT1/cmr/m/sl/12 Figure 5: Er-ror rate com-par-i-son be-twenn for-
+ []
+
+
+Loose \hbox (badness 80) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 a new test set (200 sam-ples equally gen-er-
+ []
+
+
+Underfull \hbox (badness 223) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 ated by $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 and $\OML/cmm/m/
+it/12 X[]$\OT1/cmr/m/n/12 ) are used to test the
+ []
+
+
+Loose \hbox (badness 43) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 According to Ta-ble.1, we can find that the
+ []
+
+
+Loose \hbox (badness 75) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 min-i-mum er-ror rate is from the FNN with
+ []
+
+
+Underfull \hbox (badness 494) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 train-ing set as in-put. How-ever, when it
+ []
+
+
+Underfull \hbox (badness 239) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 comes to the test set, the per-for-mance of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 since bayesian op-ti-mal bound-ary is
+ []
+
+
+Underfull \hbox (badness 169) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 mance in test set is caused by over-fit-ting,
+ []
+
+
+Underfull \hbox (badness 463) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 One spe-cific clas-si-fi-ca-tion re-sult gen-er-ated
+ []
+
+
+Loose \hbox (badness 55) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 by FNN with train-ing set is shown in Fig-
+ []
+
+
+Loose \hbox (badness 20) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 clas-si-fied and `x' de-notes mis-clas-si-fied data.
+ []
+
+
+Underfull \hbox (badness 334) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 The class bound-ary of FNN is plot-ted in
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 square area $(\OML/cmm/m/it/12 x; y\OT1/cmr/m/n/12 ) \OMS/cmsy/
+m/n/12 2 []$ \OT1/cmr/m/n/12 with a step
+ []
+
+
+Loose \hbox (badness 38) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 Since I choose to tag $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 by
+ `1' and $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 by
+ []
+
+
+Underfull \hbox (badness 125) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 `-1', the fi-nal de-ci-sion bound-ary should be
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 colour bound-ary be-tween red (recog-nised
+ []
+
+
+Loose \hbox (badness 15) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 be-long to $\OML/cmm/m/it/12 X[]$\OT1/cmr/m/n/12 ) and black (r
+ecog-nised be-long
+ []
+
+
+Underfull \hbox (badness 460) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 In or-der to com-pare the per-for-mance be-
+ []
+
+
+Underfull \hbox (badness 414) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 tween FNN with dif-fer-ent hid-den neu-rons
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 size and Bayesian op-ti-mal bound-ary, I
+ []
+
+
+Underfull \hbox (badness 820) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 Once the net-works are trained, they are
+ []
+
+
+Loose \hbox (badness 12) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 used to pro-cess 40 test sets with 2000 sam-
+ []
+
+
+Underfull \hbox (badness 104) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 ples equally drawn from $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 
+and $\OML/cmm/m/it/12 X[]$\OT1/cmr/m/n/12 . The
+ []
+
+
+Underfull \hbox (badness 845) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 fi-nal er-ror rate is got by tak-ing av-er-age
+ []
+
+
+Underfull \hbox (badness 327) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 er-ror rate can be con-sid-ered as the lower
+ []
+
+
+Underfull \hbox (badness 688) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 Besides, the dif-fer-ence be-tween two er-ror
+ []
+
+
+Underfull \hbox (badness 118) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 rates (Bayesian & FNN) as well as FNN's
+ []
+
+
+Underfull \hbox (badness 624) in paragraph at lines 83--132
+\OT1/cmr/m/n/12 er-ror rate are not get-ting smaller as the
+ []
+
+[2 <./BayesianB-eps-converted-to.pdf> <./FNNT-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 mer one is to train a FNN us-ing
+ []
+
+
+Loose \hbox (badness 88) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 Mackey-Glass chaotic time se-ries [[]] gen-er-
+ []
+
+
+Underfull \hbox (badness 157) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 ated by [[]] to pre-dict the value at time t
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 work in two mode, one step ahead and free
+ []
+
+
+Loose \hbox (badness 48) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 run-ning, re-spec-tively. And its per-for-mance
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 will be com-pared with lin-ear re-gres-sion
+ []
+
+
+Underfull \hbox (badness 184) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 ture as pre-vi-ous one to pre-dict the fu-ture
+ []
+
+
+Underfull \hbox (badness 154) in paragraph at lines 133--135
+\OT1/cmr/m/n/12 FTSE 100 in-dex [[]] uti-liz-ing ex-ist-ing data
+ []
+
+<Normal.pdf, id=42, 565.11125pt x 318.18875pt>
+File: Normal.pdf Graphic file (type pdf)
+ <use Normal.pdf>
+Package pdftex.def Info: Normal.pdf used on input line 139.
+(pdftex.def)             Requested size: 234.73524pt x 132.16724pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 139--140
+ [][] 
+ []
+
+
+Underfull \hbox (badness 552) in paragraph at lines 140--140
+[]\OT1/cmr/m/sl/12 Figure 6: De-scent di-rec-tion with-out nor-
+ []
+
+
+Underfull \hbox (badness 399) in paragraph at lines 140--140
+\OT1/cmr/m/sl/12 mal-iza-tion (Left) v.s. with nor-mal-iza-tion
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 that, for a p-demension in-put data set
+ []
+
+
+Loose \hbox (badness 17) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 in-flu-ence the weights $\OML/cmm/m/it/12 w[]$ \OT1/cmr/m/n/12 
+of lin-ear re-gres-sion
+ []
+
+
+Loose \hbox (badness 12) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 or neu-ral net-work. Be-sides, it will slow the
+ []
+
+
+Underfull \hbox (badness 130) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 train-ing speed since for a gra-di-ent de-scent
+ []
+
+
+Loose \hbox (badness 13) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 point-ing to the tan-gen-tial di-rec-tion. Fig-ure
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 be-low shows the de-scent di-rec-tion un-der
+ []
+
+
+Underfull \hbox (badness 779) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 parame-tres to pre-dict the house price in
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 tinct means and vari-ances, nor-mal-iza-tion
+ []
+
+
+Underfull \hbox (badness 301) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 more, we also uti-lize $\OML/cmm/m/it/12 L[]$ \OT1/cmr/m/n/12 n
+orm to get the
+ []
+
+
+Loose \hbox (badness 78) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 sparse so-lu-tion of $\OML/cmm/m/it/12 w$ \OT1/cmr/m/n/12 in li
+n-ear re-gres-sion, if
+ []
+
+
+Loose \hbox (badness 87) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 we use the train-ing set with-out nor-mal-iza-
+ []
+
+
+Underfull \hbox (badness 179) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 tion, the re-sults of sparse so-lu-tion will be
+ []
+
+
+Underfull \hbox (badness 244) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 greatly in-flu-enced by the de-men-sions with
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 pre-vi-ous time slots to pre-dict the 21st time
+ []
+
+
+Underfull \hbox (badness 379) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 slot's value, then, we have a train-ing set
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 with 20 de-men-sions hav-ing sim-i-lar mean
+ []
+
+
+Underfull \hbox (badness 3568) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 have limit-ted in-flu-ence on the train-ing
+ []
+
+
+Underfull \hbox (badness 132) in paragraph at lines 136--145
+\OT1/cmr/m/n/12 re-sults. Then, I only nor-mal-ized each de-
+ []
+
+[3 <./CBFNN-eps-converted-to.pdf> <./NNBB-eps-converted-to.pdf> <./Normal.pdf>]
+
+Underfull \hbox (badness 663) in paragraph at lines 146--159
+\OT1/cmr/m/n/12 Firstly,a Mackey-Glass chaotic time se-ries
+ []
+
+
+Loose \hbox (badness 17) in paragraph at lines 146--159
+\OT1/cmr/m/n/12 train-ing set and re-main-ing 500 data as test
+ []
+
+
+Loose \hbox (badness 51) in paragraph at lines 146--159
+\OT1/cmr/m/n/12 set, and use pre-vi-ous $\OML/cmm/m/it/12 p \OT1/cmr/m/n/12 = 2
+0$ time slots to
+ []
+
+
+Underfull \hbox (badness 497) in paragraph at lines 146--159
+\OT1/cmr/m/n/12 need to gen-er-ate a $(\OML/cmm/m/it/12 N \OMS/cmsy/m/n/12 ^^@ 
+\OML/cmm/m/it/12 p\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^B \OML/cmm/m/it/12 p$ \O
+T1/cmr/m/n/12 train-ing
+ []
+
+Package epstopdf Info: Source file: <MKTS.eps>
+(epstopdf)                    date: 2017-12-06 17:47:32
+(epstopdf)                    size: 84732 bytes
+(epstopdf)             Output file: <MKTS-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-06 17:47:54
+(epstopdf)                    size: 35593 bytes
+(epstopdf)             Command: <repstopdf --outfile=MKTS-eps-converted-to.pdf 
+MKTS.eps>
+(epstopdf)             \includegraphics on input line 167.
+Package epstopdf Info: Output file is already uptodate.
+<MKTS-eps-converted-to.pdf, id=71, 562.1pt x 421.575pt>
+File: MKTS-eps-converted-to.pdf Graphic file (type pdf)
+
+<use MKTS-eps-converted-to.pdf>
+Package pdftex.def Info: MKTS-eps-converted-to.pdf used on input line 167.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 167--168
+ [][] 
+ []
+
+
+Tight \hbox (badness 57) in paragraph at lines 163--169
+\OT1/cmr/m/n/12 The prediction results (Training & Test set)of
+ []
+
+
+Tight \hbox (badness 61) in paragraph at lines 163--169
+\OT1/cmr/m/n/12 linear regression method is shown in Figure.7,
+ []
+
+Package epstopdf Info: Source file: <FNNFR.eps>
+(epstopdf)                    date: 2017-12-07 12:58:22
+(epstopdf)                    size: 86441 bytes
+(epstopdf)             Output file: <FNNFR-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-07 12:58:50
+(epstopdf)                    size: 34779 bytes
+(epstopdf)             Command: <repstopdf --outfile=FNNFR-eps-converted-to.pdf
+ FNNFR.eps>
+(epstopdf)             \includegraphics on input line 175.
+Package epstopdf Info: Output file is already uptodate.
+<FNNFR-eps-converted-to.pdf, id=72, 650.43pt x 482.80376pt>
+File: FNNFR-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FNNFR-eps-converted-to.pdf>
+Package pdftex.def Info: FNNFR-eps-converted-to.pdf used on input line 175.
+(pdftex.def)             Requested size: 234.73524pt x 174.2365pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 175--176
+ [][] 
+ []
+
+Package epstopdf Info: Source file: <freeDiffDelta.eps>
+(epstopdf)                    date: 2017-12-09 17:02:56
+(epstopdf)                    size: 232478 bytes
+(epstopdf)             Output file: <freeDiffDelta-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-09 17:03:55
+(epstopdf)                    size: 91312 bytes
+(epstopdf)             Command: <repstopdf --outfile=freeDiffDelta-eps-converte
+d-to.pdf freeDiffDelta.eps>
+(epstopdf)             \includegraphics on input line 183.
+Package epstopdf Info: Output file is already uptodate.
+<freeDiffDelta-eps-converted-to.pdf, id=73, 534.99875pt x 485.815pt>
+File: freeDiffDelta-eps-converted-to.pdf Graphic file (type pdf)
+
+<use freeDiffDelta-eps-converted-to.pdf>
+Package pdftex.def Info: freeDiffDelta-eps-converted-to.pdf used on input line 
+183.
+(pdftex.def)             Requested size: 234.73524pt x 213.15881pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 183--184
+ [][] 
+ []
+
+
+Loose \hbox (badness 11) in paragraph at lines 184--184
+[]\OT1/cmr/m/sl/12 Figure 9: Pre-dic-tion re-sults un-der free run-
+ []
+
+
+Loose \hbox (badness 26) in paragraph at lines 170--186
+[]\OT1/cmr/m/n/12 The er-ror, which got by tak-ing $\OML/cmm/m/it/12 L[]$ \OT1/
+cmr/m/n/12 norm of
+ []
+
+
+Underfull \hbox (badness 449) in paragraph at lines 170--186
+\OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) \OMS/c
+msy/m/n/12 ^^@ \OML/cmm/m/it/12 X[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/
+m/n/12 )$ and nor-mal-ized by
+ []
+
+
+Underfull \hbox (badness 230) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 The feed-for-ward neu-ral net-work is trained
+ []
+
+
+Loose \hbox (badness 27) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 time se-ries us-ing $\OML/cmm/m/it/12 X[]$ \OT1/cmr/m/n/12 and 
+test ma-trix $\OML/cmm/m/it/12 X[]$\OT1/cmr/m/n/12 ,
+ []
+
+
+Underfull \hbox (badness 533) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 The pre-dic-tion re-sults of the FNN un-der
+ []
+
+
+Underfull \hbox (badness 977) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 free run-ning mode is shown in Fig-ure.7,
+ []
+
+
+Loose \hbox (badness 11) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 which means the FNN use the first 20 data
+ []
+
+
+Underfull \hbox (badness 145) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 of the Mackey-Glass time se-ries to pre-dict
+ []
+
+
+Loose \hbox (badness 30) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 21st data and use the 21st data and pre-vi-
+ []
+
+
+Loose \hbox (badness 84) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 According to Fig-ure.8, the ac-cu-racy of the
+ []
+
+
+Loose \hbox (badness 13) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 pre-dic-tion only sus-tained for a few sec-onds.
+ []
+
+
+Loose \hbox (badness 72) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 How-ever, the pre-dicted data also sus-tained
+ []
+
+
+Loose \hbox (badness 28) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 Mackey-Glass se-ries and test the pre-dic-tion
+ []
+
+
+Loose \hbox (badness 16) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 se-ries is tran-sient to the over-all time se-ries.
+ []
+
+
+Underfull \hbox (badness 350) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 Since the al-go-rithm is run-ning un-der free
+ []
+
+
+Underfull \hbox (badness 287) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 the be-gin-ing part is re-moved in the al-go-
+ []
+
+
+Loose \hbox (badness 38) in paragraph at lines 170--186
+\OT1/cmr/m/n/12 rithm and the re-sults is shown in Fig-ure.9.
+ []
+
+Package epstopdf Info: Source file: <FTSE100.eps>
+(epstopdf)                    date: 2017-12-08 12:37:14
+(epstopdf)                    size: 57589 bytes
+(epstopdf)             Output file: <FTSE100-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-08 12:37:20
+(epstopdf)                    size: 23457 bytes
+(epstopdf)             Command: <repstopdf --outfile=FTSE100-eps-converted-to.p
+df FTSE100.eps>
+(epstopdf)             \includegraphics on input line 190.
+Package epstopdf Info: Output file is already uptodate.
+<FTSE100-eps-converted-to.pdf, id=74, 562.1pt x 421.575pt>
+File: FTSE100-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FTSE100-eps-converted-to.pdf>
+Package pdftex.def Info: FTSE100-eps-converted-to.pdf used on input line 190.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 190--191
+ [][] 
+ []
+
+
+Loose \hbox (badness 34) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 In this sec-tion FEST 100 his-tor-i-cal data of
+ []
+
+
+Loose \hbox (badness 11) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 Firstly, We will con-tinue to use pre-vi-ous 20
+ []
+
+
+Loose \hbox (badness 32) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 days' close price to pre-dict 21st day's close
+ []
+
+
+Underfull \hbox (badness 196) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 The er-ror which is cal-cu-late by tak-ing $\OML/cmm/m/it/12 L[
+]$
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 is $2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 1176 \OMS/cmsy/m/n/12 ^^
+B \OT1/cmr/m/n/12 10[]$ for train-ing set and
+ []
+
+
+Underfull \hbox (badness 184) in paragraph at lines 187--195
+\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5304 \OMS/cmsy/m/n/12 ^^B \O
+T1/cmr/m/n/12 10[]$ for test set. Since the er-ror
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--195
+
+ []
+
+[4 <./MKTS-eps-converted-to.pdf> <./FNNFR-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <FTSE2.eps>
+(epstopdf)                    date: 2017-12-08 02:16:41
+(epstopdf)                    size: 55522 bytes
+(epstopdf)             Output file: <FTSE2-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-08 02:17:13
+(epstopdf)                    size: 22598 bytes
+(epstopdf)             Command: <repstopdf --outfile=FTSE2-eps-converted-to.pdf
+ FTSE2.eps>
+(epstopdf)             \includegraphics on input line 203.
+Package epstopdf Info: Output file is already uptodate.
+
+<FTSE2-eps-converted-to.pdf, id=89, 562.1pt x 421.575pt>
+File: FTSE2-eps-converted-to.pdf Graphic file (type pdf)
+
+<use FTSE2-eps-converted-to.pdf>
+Package pdftex.def Info: FTSE2-eps-converted-to.pdf used on input line 203.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 203--204
+ [][] 
+ []
+
+
+Underfull \hbox (badness 208) in paragraph at lines 204--204
+[]\OT1/cmr/m/sl/12 Figure 11: FTSE100 pre-dic-tion re-sults by
+ []
+
+Package epstopdf Info: Source file: <changeAsSizePara.eps>
+(epstopdf)                    date: 2017-12-08 16:52:24
+(epstopdf)                    size: 21224 bytes
+(epstopdf)             Output file: <changeAsSizePara-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-12-08 16:52:51
+(epstopdf)                    size: 9032 bytes
+(epstopdf)             Command: <repstopdf --outfile=changeAsSizePara-eps-conve
+rted-to.pdf changeAsSizePara.eps>
+(epstopdf)             \includegraphics on input line 210.
+Package epstopdf Info: Output file is already uptodate.
+<changeAsSizePara-eps-converted-to.pdf, id=90, 562.1pt x 421.575pt>
+File: changeAsSizePara-eps-converted-to.pdf Graphic file (type pdf)
+
+<use changeAsSizePara-eps-converted-to.pdf>
+Package pdftex.def Info: changeAsSizePara-eps-converted-to.pdf used on input li
+ne 210.
+(pdftex.def)             Requested size: 234.73524pt x 176.05035pt.
+
+Overfull \hbox (5.0pt too wide) in paragraph at lines 210--211
+ [][] 
+ []
+
+
+Loose \hbox (badness 53) in paragraph at lines 211--211
+[]\OT1/cmr/m/sl/12 Figure 12: FTSE100 prediction error (Test
+ []
+
+
+Loose \hbox (badness 17) in paragraph at lines 211--211
+\OT1/cmr/m/sl/12 Set) varying from different parametres used
+ []
+
+
+Tight \hbox (badness 14) in paragraph at lines 211--211
+\OT1/cmr/m/sl/12 to train the neural network ans size of hidden
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 Where $\OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\
+OT1/cmr/m/n/12 )$ de-notes the pre-dicted se-
+ []
+
+
+Underfull \hbox (badness 214) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 the length of the se-quence. We got 1246
+ []
+
+
+Underfull \hbox (badness 764) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 days' FTSE 100 in-dex, and 1000 out of
+ []
+
+
+Underfull \hbox (badness 115) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 test set. Fi-nally, the nor-mal-ized er-ror are
+ []
+
+
+Underfull \hbox (badness 109) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 and vol-ume of trade si-mul-ta-ne-ously, which
+ []
+
+
+Loose \hbox (badness 41) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 are ex-pected to have bet-ter pre-dic-tion per-
+ []
+
+
+Underfull \hbox (badness 318) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 for-mance. The er-ror which cal-cu-lated by
+ []
+
+
+Underfull \hbox (badness 195) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 Equa-tion.3 for train-ing set and test set is
+ []
+
+
+Loose \hbox (badness 22) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 ences on the pre-dic-tion ac-cu-racy of FNN, I
+ []
+
+
+Underfull \hbox (badness 597) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 com-bine with other five parame-tres sep-a-
+ []
+
+
+Underfull \hbox (badness 371) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 These five train-ing sets are used to train
+ []
+
+
+Loose \hbox (badness 65) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 FNN with hid-den neu-rons vary-ing from 10
+ []
+
+
+Underfull \hbox (badness 607) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 are used to pre-dict the FTSE 100 in-dex
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 sion-al-ity. The fi-nal pred-c-tion er-ror per
+ []
+
+
+Underfull \hbox (badness 107) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 crease as the in-crease of hid-den layer size,
+ []
+
+
+Loose \hbox (badness 13) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 whereas it shows a in-creas-ing trends, which
+ []
+
+
+Loose \hbox (badness 63) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 use $\OML/cmm/m/it/12 L[]$ \OT1/cmr/m/n/12 norm of $\OML/cmm/m/
+it/12 w$ \OT1/cmr/m/n/12 as a con-straint to avoid
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 over-fit-ting. To solve such prob-lem in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 single-hidden-layer feed-for-ward net-works
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 (SLFNs), [[]] pro-posed a struc-ture called
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 mine the size of hid-den layer to avoid
+ []
+
+
+Loose \hbox (badness 64) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 Besides, the pre-dic-tion re-sults sug-gest that
+ []
+
+
+Loose \hbox (badness 13) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 also large for test set. One way to im-prove
+ []
+
+
+Underfull \hbox (badness 171) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 its per-for-mance is to use ELM method to
+ []
+
+
+Loose \hbox (badness 16) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 sup-press over-fit-ting. An-other way is to up-
+ []
+
+
+Loose \hbox (badness 36) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 date the FNN by lat-est data, which means
+ []
+
+
+Underfull \hbox (badness 155) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 we move down the win-dow of train-ing set
+ []
+
+
+Underfull \hbox (badness 105) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 According to Fig-ure 10 & 11, the er-ror of
+ []
+
+
+Underfull \hbox (badness 187) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 test set is large, and its pre-dic-tion in the
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 tion ten-dency in the long time scale is
+ []
+
+
+Loose \hbox (badness 78) in paragraph at lines 197--217
+\OT1/cmr/m/n/12 ba-si-cally fol-low the read in-dex. Then, the
+ []
+
+[5 <./freeDiffDelta-eps-converted-to.pdf> <./FTSE100-eps-converted-to.pdf> <./F
+TSE2-eps-converted-to.pdf>]
+Underfull \hbox (badness 3323) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 Bayesian op-ti-mal bound-ary were briefly
+ []
+
+
+Underfull \hbox (badness 1000) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 drived. Then, the per-for-mance be-tween
+ []
+
+
+Underfull \hbox (badness 454) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 ral net-work (with dif-fer-ent size of hid-den
+ []
+
+
+Underfull \hbox (badness 208) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 layer) were com-pared, where I be-lieve the
+ []
+
+
+Underfull \hbox (badness 181) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 er-ror of Bayesian op-ti-mal bound-ary is the
+ []
+
+
+Underfull \hbox (badness 117) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 hind data nor-mal-iza-tion of each di-men-sion
+ []
+
+
+Underfull \hbox (badness 776) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 is dis-cussed. Both lin-ear re-gres-sion and
+ []
+
+
+Underfull \hbox (badness 1000) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 feed-for-ward neu-ral net-work were used to
+ []
+
+
+Underfull \hbox (badness 642) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 pre-dict the Mackey-Glass time se-ries and
+ []
+
+
+Underfull \hbox (badness 228) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 they were also used to per-form pre-dic-tion
+ []
+
+
+Underfull \hbox (badness 143) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 In the part of fi-nan-cial time se-ries pre-dic-
+ []
+
+
+Loose \hbox (badness 64) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 tion, the FNN's per-for-mance on test set is
+ []
+
+
+Loose \hbox (badness 51) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 ev-i-dently worse than train-ing set. Be-sides,
+ []
+
+
+Underfull \hbox (badness 1953) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 the train-ing method which com-bine the
+ []
+
+
+Loose \hbox (badness 91) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 Nevertheless, train-ing the FNN us-ing close
+ []
+
+
+Underfull \hbox (badness 325) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 price only seems to have the best per-for-
+ []
+
+
+Underfull \hbox (badness 5847) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 mance than com-bine any two of the
+ []
+
+
+Underfull \hbox (badness 179) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 parame-tres to-gether. Fu-ture anal-y-sis may
+ []
+
+
+Loose \hbox (badness 42) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 con-sider com-bine three or more parame-tres
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 218--222
+\OT1/cmr/m/n/12 to-gether and em-ploy ELM method to see if
+ []
+
+(./Hello_Latex.bbl
+Underfull \hbox (badness 555) in paragraph at lines 4--6
+[]\OT1/cmr/m/n/12 M. C. Mackey, L. Glass, \OT1/cmr/m/it/12 et al.\OT1/cmr/m/n/1
+2 , ``Os-
+ []
+
+
+Loose \hbox (badness 42) in paragraph at lines 4--6
+\OT1/cmr/m/n/12 cil-la-tion and chaos in phys-i-o-log-i-cal con-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+[]\OT1/cmr/m/n/12 M. Co-coc-cioni, ``Mackey-glass
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+\OT1/cmr/m/n/12 time se-ries gen-er-a-tor.'' $\OT1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+\OT1/cmtt/m/n/12 / / uk\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 mathworks\OML/cmm/m/i
+t/12 :\OT1/cmtt/m/n/12 com / matlabcentral /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+\OT1/cmtt/m/n/12 fileexchange / 24390 -[] mackey -[] glass -[]
+ []
+
+
+Underfull \hbox (badness 4416) in paragraph at lines 8--11
+\OT1/cmtt/m/n/12 time -[] series -[] generator/$\OT1/cmr/m/n/12 .  Ac-cessed
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+[]\OT1/cmr/m/n/12 F. Group, ``Fi-nan-cial times stock
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+\OT1/cmr/m/n/12 ex-change 100 in-dex.'' $\OT1/cmtt/m/n/12 https :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+\OT1/cmtt/m/n/12 / / www\OML/cmm/m/it/12 :\OT1/cmtt/m/n/12 investing\OML/cmm/m/
+it/12 :\OT1/cmtt/m/n/12 com / indices / uk -[]
+ []
+
+
+Underfull \hbox (badness 189) in paragraph at lines 13--16
+\OT1/cmtt/m/n/12 100 -[] historical -[] data/$\OT1/cmr/m/n/12 .  Ac-cessed Dec
+ []
+
+
+Loose \hbox (badness 14) in paragraph at lines 18--21
+[]\OT1/cmr/m/n/12 S. Ioffe and C. Szegedy, ``Batch nor-mal-
+ []
+
+
+Loose \hbox (badness 40) in paragraph at lines 18--21
+\OT1/cmr/m/n/12 in \OT1/cmr/m/it/12 In-ter-na-tional Con-fer-ence on Ma-chine
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 23--26
+[]\OT1/cmr/m/n/12 G. Feng, G.-B. Huang, Q. Lin, and
+ []
+
+
+Loose \hbox (badness 19) in paragraph at lines 23--26
+\OT1/cmr/m/n/12 and in-cre-men-tal learn-ing,'' \OT1/cmr/m/it/12 IEEE Trans-
+ []
+
+
+Tight \hbox (badness 83) in paragraph at lines 23--26
+\OT1/cmr/m/it/12 ac-tions on Neu-ral Net-works\OT1/cmr/m/n/12 , vol. 20, no. 8,
+
+ []
+
+)
+- LAST -
+Extra skip:6.55035pt
+Left:736.35036pt/2.33331pt
+Right:729.8pt/2.33331pt
+Output:734.32518pt
+ [6 <./changeAsSizePara-eps-converted-to.pdf>] (./Hello_Latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 7350 strings out of 492995
+ 100597 string characters out of 6132703
+ 210189 words of memory out of 5000000
+ 10692 multiletter control sequences out of 15000+600000
+ 15054 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 43i,18n,74p,842b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local
+/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/
+texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texli
+ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive
+/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
+7/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2017/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Hello_Latex.pdf (6 pages, 732783 bytes).
+PDF statistics:
+ 170 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: Hello_Latex_IEEE.aux
+The style file: ieeetr.bst
+Database file #1: cite.bib
+Warning--empty journal in jayaweera2011radiobots
+Warning--can't use both volume and number fields in sutton1998reinforcement
+You've used 17 entries,
+            1876 wiz_defined-function locations,
+            579 strings with 7117 characters,
+and the built_in function-call counts, 5229 in all, are:
+= -- 515
+> -- 208
+< -- 0
++ -- 76
+- -- 59
+* -- 372
+:= -- 723
+add.period$ -- 19
+call.type$ -- 17
+change.case$ -- 15
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 279
+empty$ -- 495
+format.name$ -- 59
+if$ -- 1279
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 19
+newline$ -- 56
+num.names$ -- 17
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 191
+stack$ -- 0
+substring$ -- 358
+swap$ -- 117
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 55
+width$ -- 19
+write$ -- 176
+(There were 2 warnings)

@@ -1,0 +1,46 @@
+\begin{thebibliography}{1}
+
+\bibitem{bkassiny2013survey}
+M.~Bkassiny, Y.~Li, and S.~K. Jayaweera, ``A survey on machine-learning
+  techniques in cognitive radios,'' {\em IEEE Communications Surveys \&
+  Tutorials}, vol.~15, no.~3, pp.~1136--1159, 2013.
+
+\bibitem{haykin2005cognitive}
+S.~Haykin, ``Cognitive radio: brain-empowered wireless communications,'' {\em
+  IEEE journal on selected areas in communications}, vol.~23, no.~2,
+  pp.~201--220, 2005.
+
+\bibitem{kate2017ANN}
+K.~Farrahi, ``Artificial neural networks.''
+  \url{https://secure.ecs.soton.ac.uk/notes/comp6229/l7_neuralnetworks.pdf}.
+\newblock Accessed Mar 21, 2017.
+
+\bibitem{adam2017SVM}
+A.~Prugel-Bennett, ``Support vector machines.''
+  \url{https://secure.ecs.soton.ac.uk/notes/comp6208/lectures/supportVec_prn.pdf}.
+\newblock Accessed Mar 21, 2017.
+
+\bibitem{liang2013cooperative}
+W.~Liang, S.~X. Ng, and L.~Hanzo, ``Cooperative communication between cognitive
+  and primary users,'' {\em IET Communications}, vol.~7, no.~17,
+  pp.~1982--1992, 2013.
+
+\bibitem{o2017introduction}
+T.~O’Shea and J.~Hoydis, ``An introduction to deep learning for the physical
+  layer,'' {\em IEEE Transactions on Cognitive Communications and Networking},
+  vol.~3, no.~4, pp.~563--575, 2017.
+
+\bibitem{barron2013game}
+E.~N. Barron, {\em Game theory: an introduction}, vol.~2.
+\newblock John Wiley \& Sons, 2013.
+
+\bibitem{hasna2003end}
+M.~O. Hasna and M.-S. Alouini, ``End-to-end performance of transmission systems
+  with relays over rayleigh-fading channels,'' {\em IEEE transactions on
+  Wireless Communications}, vol.~2, no.~6, pp.~1126--1131, 2003.
+
+\bibitem{nasrabadi2007pattern}
+N.~M. Nasrabadi, ``Pattern recognition and machine learning,'' {\em Journal of
+  electronic imaging}, vol.~16, no.~4, p.~049901, 2007.
+
+\end{thebibliography}

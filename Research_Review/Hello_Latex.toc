@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {I}Week 1}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-A}}The definiton of Cognitive Radios}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-B}}How and what Machine learning techniques can be employed}{1}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {I-C}}ANN \& SVM}{1}
+\contentsline {section}{\numberline {II}Week 2}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-A}}CR assisted cooperative communicaations}{2}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-B}}Two relay strategies: AF \& DF}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {II-C}}The goal of paper \cite {liang2013cooperative}}{3}
+\contentsline {section}{\numberline {III}Week 3: 21-03-2018}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-A}}What is a game?}{3}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {III-B}}Overlay cognitive cooperative network}{3}
+\contentsline {section}{\numberline {IV}Week 4 \& 5: 9-04-2018}{4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-A}}Nash equilibrium}{4}
+\contentsline {subsection}{\numberline {\unhbox \voidb@x \hbox {IV-B}}Information entropy}{4}
+\contentsline {section}{References}{4}

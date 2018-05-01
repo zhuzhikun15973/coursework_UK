@@ -1,0 +1,93 @@
+\begin{thebibliography}{10}
+
+\bibitem{mitola1999cognitive}
+J.~Mitola and G.~Q. Maguire, ``Cognitive radio: making software radios more
+  personal,'' {\em IEEE personal communications}, vol.~6, no.~4, pp.~13--18,
+  1999.
+
+\bibitem{haykin2005cognitive}
+S.~Haykin, ``Cognitive radio: brain-empowered wireless communications,'' {\em
+  IEEE journal on selected areas in communications}, vol.~23, no.~2,
+  pp.~201--220, 2005.
+
+\bibitem{bkassiny2013survey}
+M.~Bkassiny, Y.~Li, and S.~K. Jayaweera, ``A survey on machine-learning
+  techniques in cognitive radios,'' {\em IEEE Communications Surveys \&
+  Tutorials}, vol.~15, no.~3, pp.~1136--1159, 2013.
+
+\bibitem{mchenry2006chicago}
+M.~A. McHenry, P.~A. Tenhula, D.~McCloskey, D.~A. Roberson, and C.~S. Hood,
+  ``Chicago spectrum occupancy measurements \& analysis and a long-term studies
+  proposal,'' in {\em Proceedings of the first international workshop on
+  Technology and policy for accessing spectrum}, p.~1, ACM, 2006.
+
+\bibitem{islam2008spectrum}
+M.~H. Islam, C.~L. Koh, S.~W. Oh, X.~Qing, Y.~Y. Lai, C.~Wang, Y.-C. Liang,
+  B.~E. Toh, F.~Chin, G.~L. Tan, {\em et~al.}, ``Spectrum survey in singapore:
+  Occupancy measurements and analyses,'' in {\em Cognitive Radio Oriented
+  Wireless Networks and Communications, 2008. CrownCom 2008. 3rd International
+  Conference on}, pp.~1--7, IEEE, 2008.
+
+\bibitem{he2010survey}
+A.~He, K.~K. Bae, T.~R. Newman, J.~Gaeddert, K.~Kim, R.~Menon,
+  L.~Morales-Tirado, Y.~Zhao, J.~H. Reed, W.~H. Tranter, {\em et~al.}, ``A
+  survey of artificial intelligence for cognitive radios,'' {\em IEEE
+  Transactions on Vehicular Technology}, vol.~59, no.~4, pp.~1578--1592, 2010.
+
+\bibitem{jayaweera2011radiobots}
+S.~Jayaweera and C.~Christodoulou, ``Radiobots: Architecture, algorithms and
+  realtime reconfigurable antenna designs for autonomous, self-learning future
+  cognitive radios,'' 2011.
+
+\bibitem{nasrabadi2007pattern}
+N.~M. Nasrabadi, ``Pattern recognition and machine learning,'' {\em Journal of
+  electronic imaging}, vol.~16, no.~4, p.~049901, 2007.
+
+\bibitem{bkassiny2011distributed}
+M.~Bkassiny, S.~K. Jayaweera, and K.~A. Avery, ``Distributed reinforcement
+  learning based mac protocols for autonomous cognitive secondary users,'' in
+  {\em Wireless and Optical Communications Conference (WOCC), 2011 20th
+  Annual}, pp.~1--6, IEEE, 2011.
+
+\bibitem{fehske2005new}
+A.~Fehske, J.~Gaeddert, and J.~H. Reed, ``A new approach to signal
+  classification using spectral correlation and neural networks,'' in {\em New
+  Frontiers in Dynamic Spectrum Access Networks, 2005. DySPAN 2005. 2005 First
+  IEEE International Symposium on}, pp.~144--150, IEEE, 2005.
+
+\bibitem{tsagkaris2008neural}
+K.~Tsagkaris, A.~Katidiotis, and P.~Demestichas, ``Neural network-based
+  learning schemes for cognitive radio systems,'' {\em Computer
+  Communications}, vol.~31, no.~14, pp.~3394--3404, 2008.
+
+\bibitem{tumuluru2010neural}
+V.~K. Tumuluru, P.~Wang, and D.~Niyato, ``A neural network based spectrum
+  prediction scheme for cognitive radio,'' in {\em Communications (ICC), 2010
+  IEEE International Conference on}, pp.~1--5, IEEE, 2010.
+
+\bibitem{schalkoff1997artificial}
+R.~J. Schalkoff, {\em Artificial neural networks}, vol.~1.
+\newblock McGraw-Hill New York, 1997.
+
+\bibitem{pan2010survey}
+S.~J. Pan and Q.~Yang, ``A survey on transfer learning,'' {\em IEEE
+  Transactions on knowledge and data engineering}, vol.~22, no.~10,
+  pp.~1345--1359, 2010.
+
+\bibitem{hu2008signal}
+H.~Hu, Y.~Wang, and J.~Song, ``Signal classification based on spectral
+  correlation analysis and svm in cognitive radio,'' in {\em Advanced
+  Information Networking and Applications, 2008. AINA 2008. 22nd International
+  Conference on}, pp.~883--887, IEEE, 2008.
+
+\bibitem{sutton1998reinforcement}
+R.~S. Sutton and A.~G. Barto, {\em Reinforcement learning: An introduction},
+  vol.~1.
+\newblock MIT press Cambridge, 1998.
+
+\bibitem{yau2010applications}
+K.-L.~A. Yau, P.~Komisarczuk, and P.~D. Teal, ``Applications of reinforcement
+  learning to cognitive radio networks,'' in {\em Communications Workshops
+  (ICC), 2010 IEEE International Conference on}, pp.~1--6, IEEE, 2010.
+
+\end{thebibliography}
